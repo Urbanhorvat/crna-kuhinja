@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2026-08-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://static.readdy.ai/image/610b801a81a299b5cf2b47908013d228/c4b7412acecc226bb97e0c0f05e83198.png</image:loc>
+      <image:title>Bar Pri Oračih Markovci</image:title>
+      <image:caption>Prijeten ambient bara Pri Oračih v Markovcih</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://example.com/ponudba</loc>
+    <lastmod>2026-08-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>
